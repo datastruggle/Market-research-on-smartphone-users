@@ -1,0 +1,291 @@
+Timestamp,Email Address,what is your age ?,Gender,From where will you like to buy a smartphone ?,What is the most important feature or factor for you while buying a smartphone ?,Do you prefer iOS or Android ?,Which is your preferable build type ?,Which brand will you prefer ?,How much money are you ready to pay for your smartphone ?,"How frequently you change your smartphone?
+Please give your response in months","Please choose your most recent income bracket
+
+Options are given for income per month",How much storage space do you require?,"What is the camera quality will you like to have ?
+",What is the RAM size you are looking for ?,How many hours of battery backup do you need?,Do you consider wireless charging as an important factor ?,For what purpose do you use your smartphone ?,What is Display size you are looking for?
+9/14/2022 18:55:45,,19,Female,Amazon,"Looks, RAM, Camera, Price",Android,Plastic type,"SAMSUNG, APPLE, XIAOMI",25000,18,15000 to 30000,64 GB,25-45,6 GB,4-8,no,Personal use,5.5 inches
+9/14/2022 19:33:56,,47,Male,Amazon,Price,Android,Metallic type,XIAOMI,15000,48,above 75000,64 GB,5- 25,6 GB,16-20,no,Personal use,5 inches
+9/14/2022 19:36:33,,25,Male,Others,Processor,iOS,Metallic type,APPLE,100000,36,15000 to 30000,128 GB,5- 25,12 GB,12-16,yes,Personal use,6 inches
+9/14/2022 19:36:58,,26,Male,Physical store,"RAM, Processor, Storage Space",Android,Metallic type,"ONEPLUS, XIAOMI",50000,6,above 75000,256 GB,45-65,12 GB,8-12,yes,Personal use,5.5 inches
+9/14/2022 19:37:32,,25,Male,Amazon,"RAM, Processor, Storage Space, Camera",Android,Metallic type,OTHERS,40000,36,15000 to 30000,256 GB,45-65,8 GB,8-12,no,Personal use,6.5 inches or more
+9/14/2022 19:38:33,,52,Male,Physical store,"Looks, Processor, RAM, Price, Storage Space, Camera",Android,Metallic type,SAMSUNG,15000,48,15000 to 30000,128 GB,45-65,8 GB,12-16,yes,Personal use,6 inches
+9/14/2022 19:38:48,,48,Male,Physical store,"Camera, RAM, Price, Storage Space, Processor",Android,Plastic type,SAMSUNG,15000,24,above 75000,256 GB,5- 25,8 GB,16-20,no,Personal use,6 inches
+9/14/2022 19:39:10,,48,Male,Amazon,"RAM, Processor, Storage Space",Android,Metallic type,XIAOMI,12000,36,45000 to 60000,128 GB,65 and above,6 GB,12-16,no,official use,6 inches
+9/14/2022 19:39:20,,55,Female,Amazon,"Camera, Storage Space, Price",Android,Metallic type,XIAOMI,20000,12,15000 to 30000,32 GB,25-45,4 GB,4-8,no,Personal use,5 inches
+9/14/2022 19:41:24,,48,Female,Others,Camera,,,SAMSUNG,20000,29,30000 to 45000,64 GB,65 and above,6 GB,8-12,no,Personal use and Photography,6 inches
+9/14/2022 19:46:15,,17,Male,Flipkart,Processor,iOS,Metallic type,"APPLE, ONEPLUS",40000,36,above 75000,64 GB,65 and above,16 GB,16-20,yes,"Personal use, Photography/ videography, Personal use and Photography",6.5 inches or more
+9/14/2022 19:47:06,,16,Male,Flipkart,Processor,Android,Metallic type,XIAOMI,20000,12,30000 to 45000,128 GB,25-45,6 GB,8-12,yes,"Personal use, Photography/ videography",6 inches
+9/14/2022 19:47:54,,18,Female,Physical store,Storage Space,Android,Metallic type,XIAOMI,15000,36,15000 to 30000,64 GB,25-45,8 GB,4-8,yes,Personal use,5.5 inches
+9/14/2022 19:48:05,,17,Male,Physical store,Processor,iOS,Metallic type,APPLE,50000,24,above 75000,128 GB,45-65,8 GB,4-8,yes,Personal use and Photography,6 inches
+9/14/2022 19:48:29,,18,Female,Flipkart,Processor,Android,Metallic type,XIAOMI,20000,30,15000 to 30000,128 GB,45-65,8 GB,12-16,yes,Personal use and Photography,6 inches
+9/14/2022 19:48:30,,17,Male,Physical store,RAM,Android,Metallic type,ONEPLUS,10000,36,15000 to 30000,128 GB,25-45,6 GB,8-12,no,Personal use,6.5 inches or more
+9/14/2022 19:48:45,,16,Female,Physical store,Storage Space,Android,Metallic type,SAMSUNG,19000,12,15000 to 30000,128 GB,45-65,16 GB,16-20,yes,"Personal use, Personal use and Photography",5.5 inches
+9/14/2022 19:48:46,,17,Female,Physical store,Camera,Android,Metallic type,XIAOMI,18000,9,15000 to 30000,128 GB,45-65,,Above 20,,Personal use,6 inches
+9/14/2022 19:48:50,,18,Female,Physical store,Storage Space,Android,Metallic type,SAMSUNG,10000,60,15000 to 30000,128 GB,5- 25,8 GB,8-12,yes,"Personal use, official use",6 inches
+9/14/2022 19:49:30,,17,Male,Others,Price,Others,Metallic type,OTHERS,50000,100000000000000,above 75000,256 GB,65 and above,16 GB,Above 20,no,Photography/ videography,6.5 inches or more
+9/14/2022 19:49:39,,24,Male,Physical store,Storage Space,Android,Metallic type,XIAOMI,15000,24,15000 to 30000,256 GB,45-65,16 GB,Above 20,no,"Personal use, official use",6.5 inches or more
+9/14/2022 19:50:24,,17,Female,Others,Processor,Android,Metallic type,OTHERS,20000,60,15000 to 30000,128 GB,45-65,6 GB,12-16,yes,Personal use and Photography,6 inches
+9/14/2022 19:50:56,,53,Male,Physical store,RAM,Others,Metallic type,SAMSUNG,10001,60,15000 to 30000,64 GB,5- 25,8 GB,16-20,yes,Personal use,6.5 inches or more
+9/14/2022 19:51:02,,18,Male,Physical store,Price,Android,Metallic type,SAMSUNG,20000,48,45000 to 60000,128 GB,45-65,12 GB,8-12,no,"Personal use, vlogging, Photography/ videography",6.5 inches or more
+9/14/2022 19:51:07,,50,Male,Physical store,Price,Android,Plastic type,OTHERS,7000,36,15000 to 30000,128 GB,5- 25,6 GB,Above 20,no,Personal use,6.5 inches or more
+9/14/2022 19:51:09,,17,Female,Amazon,RAM,Android,Metallic type,ONEPLUS,6000,10,15000 to 30000,128 GB,45-65,16 GB,12-16,no,Personal use,6.5 inches or more
+9/14/2022 19:51:09,,58,Male,Physical store,Storage Space,Android,Metallic type,"XIAOMI, OTHERS",10000,48,above 75000,128 GB,65 and above,8 GB,Above 20,no,"Personal use, Photography/ videography, Personal use and Photography, Other",6 inches
+9/14/2022 19:51:29,,19,Female,Physical store,Storage Space,Android,Plastic type,SAMSUNG,15000,1,15000 to 30000,32 GB,45-65,12 GB,16-20,no,Personal use,6 inches
+9/14/2022 19:51:51,,16,Male,Physical store,Price,Android,Metallic type,"ONEPLUS, XIAOMI",30000,24,15000 to 30000,256 GB,45-65,12 GB,16-20,no,"Personal use, official use, Photography/ videography, Personal use and Photography",6.5 inches or more
+9/14/2022 19:52:29,,17,Male,Amazon,RAM,iOS,Metallic type,APPLE,70000,30,30000 to 45000,128 GB,65 and above,12 GB,12-16,no,"Personal use, Photography/ videography",6 inches
+9/14/2022 19:52:53,,17,Male,Flipkart,Processor,iOS,Metallic type,"SAMSUNG, APPLE, ONEPLUS, XIAOMI",30000,48,15000 to 30000,128 GB,45-65,8 GB,16-20,yes,"Personal use, vlogging, Photography/ videography, Personal use and Photography",6 inches
+9/14/2022 19:53:06,,17,Female,Physical store,Storage Space,Android,Metallic type,SAMSUNG,17000,60,15000 to 30000,128 GB,65 and above,8 GB,16-20,no,"Personal use, official use, Photography/ videography",6 inches
+9/14/2022 19:54:30,,18,Male,Flipkart,Processor,iOS,Metallic type,"SAMSUNG, APPLE",50000,1.5,above 75000,128 GB,45-65,12 GB,12-16,no,Other,6 inches
+9/14/2022 19:54:37,,17,Female,Physical store,Storage Space,Android,Metallic type,SAMSUNG,17000,36,45000 to 60000,128 GB,45-65,6 GB,12-16,yes,Personal use and Photography,5.5 inches
+9/14/2022 19:54:41,,17,Male,Flipkart,Processor,Android,Metallic type,"SAMSUNG, APPLE, ONEPLUS, XIAOMI",30000,24,15000 to 30000,256 GB,65 and above,8 GB,Above 20,yes,"Personal use, official use, Personal use and Photography",5 inches
+9/14/2022 19:55:13,,16,Male,Flipkart,RAM,Android,Metallic type,OTHERS,12000,24,15000 to 30000,128 GB,25-45,6 GB,12-16,yes,"Personal use, Other",5.5 inches
+9/14/2022 19:55:20,,17,Female,Flipkart,Camera,Android,Metallic type,ONEPLUS,20000,34,30000 to 45000,128 GB,65 and above,16 GB,,no,"Personal use, Personal use and Photography",6.5 inches or more
+9/14/2022 19:55:56,,17,Female,Amazon,Camera,Android,Metallic type,XIAOMI,15000,50,above 75000,128 GB,65 and above,8 GB,12-16,no,"Personal use, official use, Photography/ videography",5 inches
+9/14/2022 19:56:43,,18,Female,Physical store,Storage Space,Android,Metallic type,SAMSUNG,30000,60,15000 to 30000,256 GB,25-45,8 GB,16-20,yes,Personal use,6 inches
+9/14/2022 19:56:58,,17,Male,Amazon,Storage Space,Android,Plastic type,SAMSUNG,16000,48,45000 to 60000,128 GB,45-65,8 GB,12-16,no,"official use, Personal use and Photography",6 inches
+9/14/2022 19:57:10,,17,Male,Physical store,Processor,Android,Metallic type,ONEPLUS,25000,24,30000 to 45000,128 GB,45-65,12 GB,8-12,yes,Personal use and Photography,6.5 inches or more
+9/14/2022 19:57:37,,24,Male,Physical store,RAM,Android,Metallic type,ONEPLUS,45000,36,above 75000,256 GB,65 and above,16 GB,12-16,no,"Personal use, official use, Photography/ videography, Personal use and Photography",6 inches
+9/14/2022 19:58:01,,16,Male,Physical store,Processor,Android,Plastic type,ONEPLUS,50000,150,above 75000,256 GB,65 and above,8 GB,8-12,no,Personal use and Photography,6.5 inches or more
+9/14/2022 19:58:12,,20,Male,Physical store,Processor,iOS,Metallic type,APPLE,25000,30,15000 to 30000,256 GB,65 and above,8 GB,12-16,yes,Personal use and Photography,6.5 inches or more
+9/14/2022 20:00:08,,17,Female,Physical store,Storage Space,Android,Metallic type,SAMSUNG,20000,48,above 75000,128 GB,45-65,16 GB,16-20,no,Personal use,6.5 inches or more
+9/14/2022 20:00:19,,16,Male,Flipkart,Processor,Android,Metallic type,"SAMSUNG, XIAOMI",25000,48,30000 to 45000,128 GB,45-65,8 GB,12-16,no,Personal use and Photography,6.5 inches or more
+9/14/2022 20:00:34,,18,Female,Amazon,Storage Space,Android,Metallic type,XIAOMI,12000,36,15000 to 30000,128 GB,65 and above,16 GB,12-16,no,Personal use,6 inches
+9/14/2022 20:01:15,,16,Male,Physical store,Storage Space,iOS,Plastic type,OTHERS,32000,14,45000 to 60000,128 GB,45-65,6 GB,4-8,yes,official use,6 inches
+9/14/2022 20:02:37,,16,Female,Physical store,Camera,Android,,SAMSUNG,7000,36,15000 to 30000,64 GB,45-65,8 GB,Above 20,yes,Personal use,6.5 inches or more
+9/14/2022 20:03:35,,48,Female,Physical store,Price,Android,Metallic type,SAMSUNG,15000,48,60000 to 75000,64 GB,25-45,6 GB,8-12,no,"Personal use, Photography/ videography, Personal use and Photography",6 inches
+9/14/2022 20:05:08,,17,Female,Physical store,Camera,iOS,Metallic type,"SAMSUNG, APPLE",60000,48,45000 to 60000,128 GB,45-65,16 GB,Above 20,no,"Personal use, official use, Photography/ videography",6 inches
+9/14/2022 20:06:55,,22,Female,Flipkart,Processor,Android,Metallic type,"XIAOMI, OTHERS",12000,72,15000 to 30000,128 GB,45-65,6 GB,Above 20,yes,"Personal use, Personal use and Photography",6 inches
+9/14/2022 20:07:50,,20,Male,Amazon,Processor,Android,Metallic type,"SAMSUNG, ONEPLUS, OTHERS",25000,48,15000 to 30000,128 GB,65 and above,6 GB,16-20,,"Personal use, Photography/ videography, Personal use and Photography",6.5 inches or more
+9/14/2022 20:07:59,,16,Male,Flipkart,Camera,Android,Plastic type,SAMSUNG,10000,2,15000 to 30000,128 GB,25-45,8 GB,12-16,yes,Photography/ videography,5.5 inches
+9/14/2022 20:09:06,,18,Male,Amazon,Processor,Android,Metallic type,"ONEPLUS, XIAOMI",10000,60,45000 to 60000,128 GB,65 and above,6 GB,12-16,no,Personal use and Photography,6 inches
+9/14/2022 20:09:20,,18,Male,Physical store,RAM,Android,Plastic type,SAMSUNG,10000,24,15000 to 30000,64 GB,5- 25,8 GB,12-16,no,Personal use,5.5 inches
+9/14/2022 20:09:27,,17,Male,Physical store,Processor,iOS,Metallic type,"SAMSUNG, APPLE",15000,24,30000 to 45000,256 GB,65 and above,16 GB,16-20,no,"Personal use, official use, Photography/ videography",6 inches
+9/14/2022 20:12:03,,48,Female,Amazon,Camera,Android,Metallic type,SAMSUNG,15000,36,above 75000,128 GB,25-45,6 GB,Above 20,no,Personal use and Photography,6 inches
+9/14/2022 20:13:35,,18,Male,Physical store,Camera,Android,Polycarbonate ,"ONEPLUS, OTHERS",16000,36,15000 to 30000,256 GB,65 and above,8 GB,12-16,no,Personal use and Photography,6 inches
+9/14/2022 20:15:01,,17,Male,Amazon,,Android,Metallic type,XIAOMI,20000,34,15000 to 30000,64 GB,45-65,6 GB,8-12,yes,"Personal use, official use",5.5 inches
+9/14/2022 20:15:28,,18,Male,Flipkart,Processor,Android,Glass body,OTHERS,28000,48,15000 to 30000,128 GB,65 and above,8 GB,12-16,yes,Personal use,6.5 inches or more
+9/14/2022 20:18:25,,18,Male,Others,Camera,Android,Plastic type,OTHERS,18000,48,15000 to 30000,128 GB,45-65,6 GB,Above 20,yes,Personal use and Photography,6.5 inches or more
+9/14/2022 20:18:49,,17,Female,Flipkart,Camera,Android,Metallic type,XIAOMI,20000,24,60000 to 75000,128 GB,5- 25,8 GB,12-16,yes,Personal use and Photography,6 inches
+9/14/2022 20:21:06,,16,Male,Physical store,Processor,Android,Metallic type,"ONEPLUS, OTHERS",20000,16000,15000 to 30000,256 GB,65 and above,12 GB,12-16,yes,"Personal use, official use, vlogging, Photography/ videography, Personal use and Photography",6 inches
+9/14/2022 20:21:24,,17,Female,Physical store,Storage Space,Android,Metallic type,SAMSUNG,16000,730,15000 to 30000,64 GB,45-65,4 GB,12-16,no,Personal use and Photography,6 inches
+9/14/2022 20:23:05,,48,Male,Physical store,Price,Android,Metallic type,"SAMSUNG, ONEPLUS, XIAOMI",20000,48,45000 to 60000,128 GB,65 and above,8 GB,8-12,yes,"Personal use, official use, Photography/ videography",6 inches
+9/14/2022 20:23:41,,16,Female,Amazon,Storage Space,Android,Metallic type,SAMSUNG,50000,24,above 75000,256 GB,65 and above,16 GB,16-20,yes,Personal use,5.5 inches
+9/14/2022 20:23:49,,17,Male,Physical store,Processor,Android,Plastic type,SAMSUNG,6000,2,15000 to 30000,128 GB,45-65,6 GB,16-20,no,Personal use,6 inches
+9/14/2022 20:26:25,,17,Male,Flipkart,Processor,Android,Metallic type,"SAMSUNG, ONEPLUS",22000,46,15000 to 30000,128 GB,45-65,8 GB,8-12,yes,"Personal use, Other",6.5 inches or more
+9/14/2022 20:26:43,,15,Female,Amazon,Storage Space,Android,Metallic type,SAMSUNG,6000,5,15000 to 30000,32 GB,25-45,6 GB,4-8,yes,"Personal use, official use",5 inches
+9/14/2022 20:29:57,,29,Female,Amazon,RAM,Android,Metallic type,OTHERS,20000,24,30000 to 45000,64 GB,5- 25,6 GB,12-16,no,"Personal use, official use",6 inches
+9/14/2022 20:30:04,,55,Male,Physical store,Price,Android,Plastic type,SAMSUNG,9000,10,15000 to 30000,256 GB,25-45,8 GB,Above 20,no,Personal use,6 inches
+9/14/2022 20:30:47,,40,Male,Others,Price,Android,Metallic type,XIAOMI,15000,5,15000 to 30000,128 GB,,8 GB,Above 20,no,Personal use,5.5 inches
+9/14/2022 20:31:53,,17,Male,Flipkart,Processor,Android,Metallic type,ONEPLUS,20000,24,15000 to 30000,128 GB,45-65,6 GB,12-16,no,Personal use,6.5 inches or more
+9/14/2022 20:32:34,,17,Female,Physical store,Camera,Android,Metallic type,SAMSUNG,1E+36,1,above 75000,256 GB,65 and above,16 GB,Above 20,yes,Personal use,6.5 inches or more
+9/14/2022 20:33:19,,18,Female,Physical store,Storage Space,Android,Metallic type,"SAMSUNG, ONEPLUS",15000,24,15000 to 30000,256 GB,65 and above,16 GB,Above 20,yes,"Personal use, official use",6 inches
+9/14/2022 20:33:31,,19,Male,Physical store,Processor,Android,Metallic type,XIAOMI,16000,30,15000 to 30000,64 GB,45-65,6 GB,Above 20,no,Personal use,6.5 inches or more
+9/14/2022 20:35:13,,16,Male,Flipkart,Processor,iOS,Metallic type,ONEPLUS,20000,36,above 75000,256 GB,,8 GB,Above 20,no,Personal use,6 inches
+9/14/2022 20:36:12,,28,Female,Flipkart,Price,Android,Metallic type,OTHERS,11000,36,15000 to 30000,128 GB,65 and above,8 GB,Above 20,yes,"Personal use, official use, Photography/ videography, Personal use and Photography",6.5 inches or more
+9/14/2022 20:39:31,,18,Male,Amazon,Processor,Android,Plastic type,ONEPLUS,22000,24,15000 to 30000,128 GB,65 and above,6 GB,Above 20,no,Personal use,6.5 inches or more
+9/14/2022 20:41:48,,50,Female,Physical store,Storage Space,Android,Metallic type,SAMSUNG,10000,48,15000 to 30000,128 GB,45-65,6 GB,16-20,yes,Personal use,
+9/14/2022 20:41:51,,17,Female,Physical store,Camera,Android,Metallic type,ONEPLUS,50000,12,60000 to 75000,256 GB,45-65,12 GB,12-16,yes,Personal use,6 inches
+9/14/2022 20:42:01,,19,Male,Physical store,Looks,Android,Metallic type,"APPLE, ONEPLUS, OTHERS",100000,48,15000 to 30000,128 GB,25-45,8 GB,12-16,yes,"Personal use, official use, Photography/ videography",6 inches
+9/14/2022 20:42:36,,18,Male,Physical store,RAM,Android,Plastic type,OTHERS,15000,48,15000 to 30000,128 GB,45-65,6 GB,8-12,no,"Personal use, Personal use and Photography",6.5 inches or more
+9/14/2022 20:43:44,,56,Male,Amazon,RAM,Android,Metallic type,SAMSUNG,12000,60,15000 to 30000,128 GB,65 and above,8 GB,16-20,no,Personal use,6.5 inches or more
+9/14/2022 20:44:14,,49,Female,Physical store,Price,Android,Metallic type,"XIAOMI, OTHERS",12000,36,45000 to 60000,64 GB,25-45,6 GB,12-16,no,"Personal use, official use, Personal use and Photography",6 inches
+9/14/2022 20:44:40,,17,Male,Physical store,Price,Android,Metallic type,SAMSUNG,17009,26,15000 to 30000,128 GB,65 and above,8 GB,8-12,yes,Other,5.5 inches
+9/14/2022 20:45:30,,27,Female,Others,Price,iOS,Metallic type,APPLE,40000,36,30000 to 45000,128 GB,25-45,8 GB,12-16,no,Personal use and Photography,6.5 inches or more
+9/14/2022 20:46:11,,17,Male,Physical store,Price,Android,Metallic type,OTHERS,15000,1,15000 to 30000,64 GB,25-45,6 GB,12-16,yes,official use,6 inches
+9/14/2022 20:46:50,,60,Female,Amazon,Camera,Android,Metallic type,"SAMSUNG, ONEPLUS",30000,3,30000 to 45000,128 GB,45-65,12 GB,Above 20,no,Personal use,5.5 inches
+9/14/2022 20:48:32,,24,Female,Flipkart,Storage Space,Android,Metallic type,ONEPLUS,40000,30,above 75000,128 GB,45-65,6 GB,16-20,no,"Personal use, official use, Photography/ videography, Personal use and Photography",5.5 inches
+9/14/2022 20:49:24,,18,Male,Physical store,Storage Space,Android,Metallic type,"SAMSUNG, ONEPLUS, XIAOMI, OTHERS",30000,24,15000 to 30000,128 GB,45-65,8 GB,16-20,no,"Personal use, official use, Personal use and Photography",6.5 inches or more
+9/14/2022 20:49:59,,19,Male,Flipkart,Processor,Android,Metallic type,XIAOMI,20000,2,15000 to 30000,128 GB,65 and above,8 GB,Above 20,no,"official use, Personal use and Photography",6.5 inches or more
+9/14/2022 20:50:02,,27,Male,Flipkart,RAM,Android,Metallic type,OTHERS,20000,36,30000 to 45000,128 GB,45-65,12 GB,Above 20,no,"Personal use, official use, vlogging, Photography/ videography, Personal use and Photography",6 inches
+9/14/2022 20:50:39,,45,Male,Physical store,Price,Android,Metallic type,"SAMSUNG, APPLE, ONEPLUS",30000,36,above 75000,256 GB,5- 25,12 GB,12-16,no,"official use, Personal use and Photography",6.5 inches or more
+9/14/2022 20:51:57,,48,Male,Flipkart,Processor,Android,Metallic type,SAMSUNG,20000,4,above 75000,256 GB,65 and above,8 GB,Above 20,no,"Personal use, official use",6.5 inches or more
+9/14/2022 20:53:37,,42,Male,Physical store,RAM,iOS,Metallic type,OTHERS,25000,24,30000 to 45000,128 GB,65 and above,12 GB,Above 20,yes,"Personal use, official use, Photography/ videography, Personal use and Photography",6 inches
+9/14/2022 20:54:13,,17,Female,Flipkart,Storage Space,Android,Plastic type,XIAOMI,25000,7,15000 to 30000,128 GB,45-65,12 GB,16-20,yes,"Personal use, Personal use and Photography",5.5 inches
+9/14/2022 20:54:44,,15,Female,Physical store,Price,Android,Metallic type,ONEPLUS,15000,66,15000 to 30000,128 GB,45-65,8 GB,8-12,no,Personal use,6 inches
+9/14/2022 20:55:08,,55,Male,Physical store,RAM,Android,Metallic type,SAMSUNG,20000,36,15000 to 30000,128 GB,45-65,6 GB,16-20,no,"Personal use, official use, Photography/ videography",6.5 inches or more
+9/14/2022 20:56:27,,35,Female,Physical store,RAM,Android,Plastic type,"SAMSUNG, XIAOMI",20000,36,15000 to 30000,128 GB,45-65,8 GB,16-20,no,"Personal use, official use, Personal use and Photography",6 inches
+9/14/2022 20:57:05,,40,Male,Amazon,Processor,Android,Metallic type,SAMSUNG,30000,24,15000 to 30000,128 GB,45-65,8 GB,12-16,no,Other,6.5 inches or more
+9/14/2022 20:57:33,,18,Male,Physical store,Processor,Android,Metallic type,"ONEPLUS, XIAOMI, OTHERS",22000,8,45000 to 60000,256 GB,65 and above,8 GB,Above 20,no,"vlogging, Personal use and Photography, Other",6.5 inches or more
+9/14/2022 20:58:02,,36,Male,Physical store,RAM,Android,Metallic type,OTHERS,15000,24,15000 to 30000,128 GB,45-65,8 GB,12-16,yes,"Personal use, official use, Personal use and Photography",6.5 inches or more
+9/14/2022 21:01:35,,16,Male,Flipkart,Processor,Android,Doesn't matter ,OTHERS,26000,72,15000 to 30000,128 GB,45-65,8 GB,12-16,no,Personal use,6.5 inches or more
+9/14/2022 21:02:51,,19,Male,Flipkart,Processor,Android,Metallic type,"APPLE, ONEPLUS",15000,1,30000 to 45000,128 GB,45-65,6 GB,8-12,yes,"Personal use, vlogging, Personal use and Photography",5.5 inches
+9/14/2022 21:03:35,,16,Male,Physical store,Storage Space,Android,Metallic type,SAMSUNG,10000,72,15000 to 30000,32 GB,45-65,8 GB,8-12,no,Personal use,6 inches
+9/14/2022 21:05:08,,47,Male,Physical store,Processor,Android,Metallic type,SAMSUNG,16000,42,45000 to 60000,128 GB,5- 25,6 GB,8-12,no,"Personal use, official use",6 inches
+9/14/2022 21:06:51,,48,Female,Amazon,Price,Android,Metallic type,SAMSUNG,20000,2,60000 to 75000,128 GB,25-45,8 GB,16-20,no,"Personal use, official use",6 inches
+9/14/2022 21:12:38,,57,Male,Physical store,Price,Android,Metallic type,OTHERS,10000,60,45000 to 60000,128 GB,25-45,4 GB,16-20,no,Personal use and Photography,5.5 inches
+9/14/2022 21:12:58,,17,Female,Physical store,Processor,Android,Metallic type,OTHERS,15000,4,15000 to 30000,128 GB,5- 25,12 GB,12-16,yes,Personal use and Photography,6 inches
+9/14/2022 21:15:00,,53,Female,Physical store,Price,Android,Metallic type,OTHERS,9000,60,45000 to 60000,128 GB,25-45,4 GB,16-20,no,Personal use,5 inches
+9/14/2022 21:15:07,,16,Male,Flipkart,Price,Android,Metallic type,XIAOMI,16000,36,30000 to 45000,128 GB,45-65,6 GB,16-20,no,Personal use,6.5 inches or more
+9/14/2022 21:15:17,,43,Male,Amazon,Price,Android,Plastic type,"SAMSUNG, ONEPLUS",25000,48,above 75000,128 GB,25-45,8 GB,16-20,no,"Personal use, Photography/ videography",6 inches
+9/14/2022 21:17:05,,17,Female,Physical store,Processor,Android,Metallic type,OTHERS,15000,36,30000 to 45000,256 GB,5- 25,8 GB,12-16,yes,"official use, Personal use and Photography",6.5 inches or more
+9/14/2022 21:17:39,,69,Male,Amazon,Camera,iOS,Metallic type,"ONEPLUS, XIAOMI",80000,8000,45000 to 60000,OTHERS,65 and above,16 GB,Above 20,no,vlogging,5.5 inches
+9/14/2022 21:17:42,,17,Male,Amazon,Price,Android,Metallic type,XIAOMI,13000,48,15000 to 30000,128 GB,65 and above,8 GB,Above 20,yes,"Personal use, official use, vlogging, Photography/ videography, Personal use and Photography, Other",6.5 inches or more
+9/14/2022 21:18:17,,17,Female,Physical store,Price,Android,Metallic type,ONEPLUS,20000,12,15000 to 30000,256 GB,65 and above,12 GB,Above 20,no,Personal use and Photography,6 inches
+9/14/2022 21:19:26,,49,Male,Flipkart,Price,Android,Metallic type,XIAOMI,10000,60,above 75000,128 GB,5- 25,4 GB,Above 20,no,"Personal use, official use",5.5 inches
+9/14/2022 21:20:20,,46,Male,Amazon,Storage Space,Android,Metallic type,"SAMSUNG, ONEPLUS, XIAOMI",20000,60,above 75000,256 GB,65 and above,12 GB,Above 20,no,"Personal use, official use",6.5 inches or more
+9/14/2022 21:21:00,,15,Male,Amazon,Price,Android,Metallic type,"SAMSUNG, APPLE, XIAOMI",20000,50,45000 to 60000,128 GB,65 and above,6 GB,16-20,no,"Personal use, Photography/ videography, Other",6.5 inches or more
+9/14/2022 21:21:43,,18,Male,Physical store,Processor,Android,Metallic type,SAMSUNG,15000,30,15000 to 30000,64 GB,5- 25,4 GB,12-16,no,Personal use,5.5 inches
+9/14/2022 21:23:46,,18,Male,Flipkart,Camera,Android,Metallic type,ONEPLUS,50000,18,above 75000,256 GB,65 and above,8 GB,4-8,yes,Photography/ videography,6.5 inches or more
+9/14/2022 21:26:51,,50,Female,Flipkart,Storage Space,Android,Metallic type,SAMSUNG,15000,24,30000 to 45000,128 GB,5- 25,16 GB,16-20,yes,"Personal use, official use, Photography/ videography",6.5 inches or more
+9/14/2022 21:29:23,,17,Female,Flipkart,Storage Space,Android,Metallic type,SAMSUNG,20000,36,15000 to 30000,128 GB,5- 25,12 GB,16-20,yes,Personal use,5.5 inches
+9/14/2022 21:30:23,,64,Male,Amazon,RAM,Android,fibreglass,SAMSUNG,30000,24,above 75000,128 GB,45-65,8 GB,12-16,no,"Personal use, official use",5.5 inches
+9/14/2022 21:33:05,,46,Female,Physical store,Processor,Android,Metallic type,"SAMSUNG, XIAOMI",20000,24,45000 to 60000,128 GB,45-65,8 GB,Above 20,yes,"Personal use, official use",6.5 inches or more
+9/14/2022 21:34:59,,65,Male,Amazon,RAM,Android,fibreglass ,SAMSUNG,30000,24,above 75000,128 GB,45-65,8 GB,12-16,no,"Personal use, official use",5.5 inches
+9/14/2022 21:35:48,,18,Male,Physical store,Camera,iOS,Metallic type,OTHERS,15000,24,15000 to 30000,128 GB,45-65,8 GB,12-16,no,Personal use,6 inches
+9/14/2022 21:36:31,,17,Female,Amazon,Processor,Android,Metallic type,SAMSUNG,25000,60,above 75000,256 GB,65 and above,16 GB,Above 20,yes,Personal use,6.5 inches or more
+9/14/2022 21:44:27,,17,Female,Others,Camera,Android,Metallic type,XIAOMI,17000,20,15000 to 30000,256 GB,45-65,12 GB,12-16,no,"Personal use, Photography/ videography, Personal use and Photography",5.5 inches
+9/14/2022 21:49:42,,16,Female,Physical store,Storage Space,Android,Metallic type,SAMSUNG,15000,24,15000 to 30000,64 GB,,12 GB,16-20,no,Personal use,5.5 inches
+9/14/2022 21:49:55,,18,Male,Physical store,Processor,iOS,Metallic type,APPLE,90000,60,above 75000,256 GB,5- 25,6 GB,12-16,yes,Personal use,6.5 inches or more
+9/14/2022 21:50:08,,35,Female,Flipkart,Processor,Android,Metallic type,SAMSUNG,20000,30,30000 to 45000,256 GB,65 and above,8 GB,16-20,no,Personal use,6 inches
+9/14/2022 21:53:00,,49,Male,Physical store,Processor,Android,Metallic type,ONEPLUS,25000,36,above 75000,256 GB,45-65,8 GB,16-20,no,Other,6 inches
+9/14/2022 21:53:20,,16,Female,Physical store,Camera,Android,Metallic type,SAMSUNG,20000,1,15000 to 30000,128 GB,65 and above,16 GB,16-20,yes,Personal use and Photography,6.5 inches or more
+9/14/2022 21:55:32,,53,Male,Physical store,Processor,Android,Metallic type,ONEPLUS,15000,36,30000 to 45000,256 GB,65 and above,8 GB,16-20,yes,"Personal use, official use",5 inches
+9/14/2022 21:55:45,,17,Male,Amazon,Camera,Android,Metallic type,"SAMSUNG, XIAOMI",15000,48,30000 to 45000,128 GB,45-65,8 GB,12-16,yes,"Personal use, Personal use and Photography",6 inches
+9/14/2022 21:57:46,,62,Male,Physical store,Price,Android,Metallic type,SAMSUNG,12000,60,15000 to 30000,128 GB,65 and above,8 GB,8-12,yes,"Personal use, official use",6 inches
+9/14/2022 22:02:15,,28,Female,Physical store,RAM,Android,Metallic type,SAMSUNG,15000,36,30000 to 45000,128 GB,45-65,8 GB,16-20,yes,"Personal use, official use, Photography/ videography, Personal use and Photography",6 inches
+9/14/2022 22:05:20,,48,Male,Amazon,Price,Android,Metallic type,XIAOMI,10000,60,30000 to 45000,256 GB,25-45,8 GB,16-20,yes,Personal use,5.5 inches
+9/14/2022 22:08:26,,16,Female,Physical store,Storage Space,Android,Metallic type,OTHERS,15000,36,15000 to 30000,64 GB,45-65,8 GB,16-20,yes,Personal use and Photography,6 inches
+9/14/2022 22:10:23,,42,Female,Physical store,Camera,Android,Metallic type,"SAMSUNG, APPLE, ONEPLUS, XIAOMI",20000,16,30000 to 45000,256 GB,45-65,6 GB,12-16,yes,Personal use,6 inches
+9/14/2022 22:11:13,,16,Female,Physical store,Storage Space,Android,Metallic type,OTHERS,10000,2,15000 to 30000,OTHERS,65 and above,16 GB,16-20,yes,official use,6.5 inches or more
+9/14/2022 22:11:37,,58,Male,Physical store,Processor,Android,Metallic type,ONEPLUS,20000,60,45000 to 60000,64 GB,5- 25,6 GB,Above 20,no,Personal use,5.5 inches
+9/14/2022 22:11:39,,39,Male,Flipkart,Storage Space,Android,Metallic type,SAMSUNG,12000,60,30000 to 45000,128 GB,5- 25,6 GB,Above 20,no,Personal use,5.5 inches
+9/14/2022 22:11:42,,70,Male,Others,Price,iOS,Metallic type,APPLE,10000,30,15000 to 30000,256 GB,,4 GB,16-20,yes,Personal use,6.5 inches or more
+9/14/2022 22:12:33,,48,Female,Physical store,Storage Space,Android,Metallic type,XIAOMI,14000,36,15000 to 30000,128 GB,65 and above,16 GB,16-20,no,Personal use,6 inches
+9/14/2022 22:14:44,,16,Female,Physical store,Looks,iOS,Metallic type,APPLE,50000,2,15000 to 30000,OTHERS,65 and above,16 GB,Above 20,yes,Personal use and Photography,6.5 inches or more
+9/14/2022 22:15:01,,17,Male,Physical store,Camera,Android,Metallic type,OTHERS,10000,1,15000 to 30000,OTHERS,65 and above,16 GB,Above 20,no,Personal use and Photography,6 inches
+9/14/2022 22:15:34,,17,Female,Amazon,Storage Space,Android,Metallic type,,10000,32,15000 to 30000,256 GB,65 and above,16 GB,16-20,yes,Personal use and Photography,6 inches
+9/14/2022 22:17:06,,17,Female,Others,Camera,Android,,OTHERS,20000,12,15000 to 30000,256 GB,45-65,12 GB,16-20,yes,Personal use,6 inches
+9/14/2022 22:19:10,,17,Male,Flipkart,Price,Android,Glass back ,XIAOMI,16000,36,15000 to 30000,128 GB,45-65,6 GB,8-12,no,Personal use and Photography,6.5 inches or more
+9/14/2022 22:19:21,,18,Female,Physical store,Processor,Android,Metallic type,ONEPLUS,25000,48,15000 to 30000,128 GB,45-65,4 GB,12-16,yes,Personal use,6 inches
+9/14/2022 22:20:04,,17,Male,Amazon,Price,Android,Metallic type,"ONEPLUS, OTHERS",20000,24,30000 to 45000,128 GB,25-45,8 GB,8-12,no,"Personal use, Other",6 inches
+9/14/2022 22:20:32,,49,Female,Physical store,Processor,Android,Metallic type,SAMSUNG,50000,36,45000 to 60000,128 GB,25-45,16 GB,Above 20,no,Personal use and Photography,6.5 inches or more
+9/14/2022 22:23:32,,35,Male,Amazon,Storage Space,Android,Metallic type,ONEPLUS,30000,48,30000 to 45000,128 GB,45-65,6 GB,Above 20,no,"official use, Personal use and Photography",5 inches
+9/14/2022 22:24:38,,15,Female,Physical store,Camera,iOS,Metallic type,APPLE,10000,6,15000 to 30000,256 GB,,12 GB,4-8,no,Photography/ videography,6 inches
+9/14/2022 22:25:44,,26,Male,Physical store,Processor,Android,Metallic type,ONEPLUS,50000,48,15000 to 30000,128 GB,25-45,8 GB,Above 20,no,"Personal use, official use, Photography/ videography",6 inches
+9/14/2022 22:28:27,,16,Female,Physical store,Processor,Android,Metallic type,ONEPLUS,25000,24,15000 to 30000,128 GB,45-65,6 GB,Above 20,yes,Personal use and Photography,6 inches
+9/14/2022 22:43:44,,16,Male,Physical store,Processor,Android,Metallic type,XIAOMI,10000,24,30000 to 45000,64 GB,25-45,6 GB,Above 20,no,Personal use,6.5 inches or more
+9/14/2022 22:46:21,,49,Female,Physical store,Processor,Android,Metallic type,OTHERS,10000,120,45000 to 60000,64 GB,45-65,16 GB,12-16,no,"Personal use, official use",6.5 inches or more
+9/14/2022 22:50:25,,18,Male,Amazon,Processor,iOS,Metallic type,APPLE,20000,69,15000 to 30000,128 GB,65 and above,8 GB,8-12,no,Personal use,6.5 inches or more
+9/14/2022 22:51:58,,19,Female,Physical store,Processor,Android,Metallic type,"SAMSUNG, ONEPLUS, XIAOMI",20000,72,15000 to 30000,128 GB,45-65,8 GB,Above 20,yes,official use,6 inches
+9/14/2022 22:52:05,,17,Male,Physical store,Storage Space,Android,Metallic type,"SAMSUNG, APPLE, ONEPLUS, XIAOMI, OTHERS",30000,36,60000 to 75000,256 GB,45-65,16 GB,12-16,yes,"Photography/ videography, Personal use and Photography",6.5 inches or more
+9/14/2022 23:16:18,,45,Female,Amazon,Storage Space,iOS,Metallic type,OTHERS,30000,48,15000 to 30000,256 GB,45-65,8 GB,16-20,yes,Personal use and Photography,6 inches
+9/14/2022 23:16:21,,25,Male,Amazon,Processor,Android,Plastic type,ONEPLUS,30000,48,15000 to 30000,128 GB,45-65,8 GB,4-8,yes,Personal use,6 inches
+9/14/2022 23:18:33,,45,Female,Amazon,Storage Space,Android,Metallic type,OTHERS,30000,48,15000 to 30000,256 GB,45-65,8 GB,16-20,yes,Personal use and Photography,6 inches
+9/14/2022 23:24:21,,17,Male,Amazon,Storage Space,Android,Metallic type,APPLE,20000,56,15000 to 30000,64 GB,25-45,4 GB,4-8,yes,"official use, Photography/ videography, Personal use and Photography, Other",6 inches
+9/14/2022 23:26:24,,17,Male,Amazon,RAM,Android,Metallic type,SAMSUNG,9000,10,15000 to 30000,64 GB,45-65,6 GB,16-20,no,Personal use and Photography,6 inches
+9/14/2022 23:32:06,,29,Female,Physical store,Storage Space,Android,Metallic type,SAMSUNG,20000,12,30000 to 45000,64 GB,45-65,6 GB,16-20,no,"Personal use, official use",6 inches
+9/14/2022 23:32:18,,25,Male,Flipkart,Processor,Android,Metallic type,XIAOMI,20000,24,15000 to 30000,128 GB,45-65,8 GB,8-12,yes,Personal use,5.5 inches
+9/14/2022 23:36:18,,16,Female,Flipkart,Storage Space,Android,,OTHERS,13000,2,15000 to 30000,64 GB,65 and above,4 GB,12-16,yes,Other,6 inches
+9/14/2022 23:41:13,,18,Male,Flipkart,Processor,Android,Metallic type,XIAOMI,15000,5,15000 to 30000,128 GB,45-65,6 GB,8-12,no,Personal use and Photography,6.5 inches or more
+9/14/2022 23:48:48,,48,Male,Physical store,Price,Android,Metallic type,OTHERS,20000,36,above 75000,128 GB,5- 25,8 GB,Above 20,no,Personal use,6.5 inches or more
+9/14/2022 23:54:27,,18,Male,Physical store,RAM,iOS,Metallic type,APPLE,40000,24,15000 to 30000,128 GB,25-45,16 GB,8-12,yes,Personal use,5 inches
+9/15/2022 0:14:16,,17,Female,Flipkart,Camera,Android,Metallic type,XIAOMI,15000,36,15000 to 30000,256 GB,65 and above,16 GB,12-16,yes,Other,6.5 inches or more
+9/15/2022 0:35:21,,70,Male,Amazon,Processor,iOS,Metallic type,APPLE,500000,2,above 75000,256 GB,65 and above,16 GB,Above 20,yes,vlogging,6.5 inches or more
+9/15/2022 0:40:57,,51,Male,Physical store,Price,iOS,Metallic type,APPLE,50000,36,above 75000,128 GB,25-45,6 GB,12-16,no,"Personal use, official use, Photography/ videography",6.5 inches or more
+9/15/2022 0:48:53,,18,Male,Physical store,Processor,Android,Metallic type,APPLE,30000,20000,15000 to 30000,128 GB,5- 25,8 GB,8-12,no,Personal use,5.5 inches
+9/15/2022 0:50:14,,57,Male,Physical store,Price,Android,Plastic type,SAMSUNG,15000,24,15000 to 30000,256 GB,45-65,16 GB,Above 20,yes,"Personal use, official use",6 inches
+9/15/2022 0:52:10,,17,Female,Physical store,Storage Space,Android,Metallic type,SAMSUNG,15000,48,15000 to 30000,128 GB,25-45,8 GB,12-16,yes,Personal use,6 inches
+9/15/2022 0:58:38,,52,Male,Physical store,Storage Space,Android,Plastic type,SAMSUNG,30000,1,15000 to 30000,128 GB,65 and above,8 GB,Above 20,yes,"official use, Personal use and Photography, Other",5 inches
+9/15/2022 1:13:32,,52,Male,Physical store,Storage Space,Android,Metallic type,XIAOMI,20000,24,45000 to 60000,128 GB,45-65,6 GB,16-20,no,Personal use,6 inches
+9/15/2022 1:21:00,,38,Male,Amazon,Camera,Android,Metallic type,XIAOMI,15000,36,30000 to 45000,128 GB,65 and above,8 GB,16-20,no,"Personal use, vlogging, Photography/ videography",6.5 inches or more
+9/15/2022 2:17:25,,17,Male,Physical store,Price,Android,Metallic type,SAMSUNG,15000,10,15000 to 30000,64 GB,65 and above,16 GB,16-20,yes,Personal use,6.5 inches or more
+9/15/2022 2:53:33,,28,Male,Others,Processor,Android,Plastic type,OTHERS,16000,24,15000 to 30000,64 GB,45-65,8 GB,16-20,no,"Personal use, official use",6 inches
+9/15/2022 3:17:12,,17,Male,Physical store,Storage Space,Android,Metallic type,SAMSUNG,11000,1,30000 to 45000,128 GB,65 and above,12 GB,4-8,yes,Other,6.5 inches or more
+9/15/2022 5:04:45,,17,Male,Physical store,Processor,iOS,Metallic type,APPLE,20000,24,30000 to 45000,128 GB,25-45,8 GB,12-16,yes,Personal use and Photography,5.5 inches
+9/15/2022 7:54:54,,47,Female,Physical store,Storage Space,Android,Metallic type,SAMSUNG,50000,48,above 75000,128 GB,45-65,8 GB,Above 20,yes,"Personal use, official use",6.5 inches or more
+9/15/2022 10:53:05,,17,Male,Flipkart,Processor,Android,Metallic type,OTHERS,15000,36,30000 to 45000,128 GB,25-45,6 GB,16-20,no,"Personal use, Photography/ videography, Personal use and Photography",6 inches
+9/15/2022 11:12:18,,19,Male,Amazon,Processor,Android,Metallic type,XIAOMI,16000,50,15000 to 30000,64 GB,5- 25,4 GB,12-16,no,Personal use and Photography,5.5 inches
+9/15/2022 12:23:01,,19,Male,Physical store,Storage Space,Android,Metallic type,OTHERS,15000,30,15000 to 30000,128 GB,65 and above,8 GB,Above 20,no,Personal use and Photography,6.5 inches or more
+9/15/2022 12:56:21,,58,Female,Amazon,RAM,Android,Metallic type,SAMSUNG,20000,3,15000 to 30000,128 GB,45-65,12 GB,16-20,yes,"Personal use, official use",6.5 inches or more
+9/15/2022 13:13:19,,15,Male,Amazon,RAM,Android,Plastic type,XIAOMI,30000,48,60000 to 75000,128 GB,45-65,,8-12,yes,"official use, Photography/ videography",6 inches
+9/15/2022 14:54:25,,17,Male,Amazon,Processor,Android,Plastic type,OTHERS,30000,60,45000 to 60000,128 GB,45-65,8 GB,16-20,no,Personal use and Photography,6.5 inches or more
+9/15/2022 14:55:07,,17,Female,Amazon,Camera,Android,Metallic type,OTHERS,15000,24,15000 to 30000,128 GB,5- 25,6 GB,12-16,no,"Personal use, Personal use and Photography",6.5 inches or more
+9/15/2022 15:44:06,,23,Female,Amazon,Processor,Android,Metallic type,"APPLE, ONEPLUS",30000,36,15000 to 30000,128 GB,45-65,8 GB,16-20,yes,"Personal use, Personal use and Photography",5.5 inches
+9/15/2022 15:44:16,,28,Male,Physical store,Price,Android,Metallic type,OTHERS,15000,24,60000 to 75000,64 GB,45-65,8 GB,Above 20,yes,"Personal use, official use, Personal use and Photography",6.5 inches or more
+9/15/2022 15:45:42,,39,Male,Amazon,Storage Space,Android,Any type is fine.,"SAMSUNG, XIAOMI",15000,36,above 75000,128 GB,25-45,6 GB,Above 20,no,"Personal use, official use",5.5 inches
+9/15/2022 15:47:42,,21,Male,Flipkart,Storage Space,Android,Metallic type,"SAMSUNG, OTHERS",45000,36,15000 to 30000,256 GB,45-65,16 GB,16-20,no,"Personal use, official use",6.5 inches or more
+9/15/2022 15:50:32,,24,Male,Flipkart,Price,Android,Plastic type,XIAOMI,20000,30,15000 to 30000,64 GB,45-65,4 GB,8-12,yes,"Personal use, official use",5.5 inches
+9/15/2022 15:50:46,,33,Male,Physical store,Camera,Android,Metallic type,SAMSUNG,50000,1,30000 to 45000,256 GB,45-65,16 GB,Above 20,yes,Personal use and Photography,6.5 inches or more
+9/15/2022 15:50:47,,25,Male,Physical store,Looks,Android,Metallic type,OTHERS,20000,36,15000 to 30000,128 GB,25-45,6 GB,12-16,no,"Personal use, Personal use and Photography",5 inches
+9/15/2022 15:51:00,,24,Male,Physical store,Processor,Android,Metallic type,"SAMSUNG, ONEPLUS, XIAOMI",50000,24,15000 to 30000,128 GB,25-45,8 GB,12-16,no,"Personal use, official use, vlogging, Photography/ videography, Personal use and Photography",6 inches
+9/15/2022 15:51:49,,23,Male,Physical store,Processor,iOS,Metallic type,APPLE,60000,18,60000 to 75000,128 GB,5- 25,8 GB,12-16,yes,Personal use,5.5 inches
+9/15/2022 15:55:24,,24,Female,Flipkart,Processor,Android,Metallic type,"APPLE, ONEPLUS",30000,36,15000 to 30000,256 GB,65 and above,8 GB,Above 20,yes,"Personal use, official use, Photography/ videography, Other",6.5 inches or more
+9/15/2022 15:58:06,,21,Female,Physical store,Processor,Android,Metallic type,ONEPLUS,50000,36,15000 to 30000,128 GB,25-45,8 GB,8-12,no,Personal use,5.5 inches
+9/15/2022 15:59:14,,24,Male,Physical store,Storage Space,Android,Metallic type,OTHERS,20000,24,15000 to 30000,128 GB,45-65,6 GB,16-20,no,Personal use,5 inches
+9/15/2022 15:59:29,,37,Male,Amazon,Price,Android,Plastic type,"SAMSUNG, ONEPLUS",20000,12,above 75000,128 GB,5- 25,8 GB,Above 20,no,Personal use,6 inches
+9/15/2022 15:59:39,,22,Male,Amazon,Processor,iOS,Metallic type,APPLE,60000,60,30000 to 45000,128 GB,45-65,8 GB,12-16,no,"Personal use, official use, Photography/ videography, Personal use and Photography",6.5 inches or more
+9/15/2022 16:00:24,,28,Male,Flipkart,Camera,iOS,Metallic type,APPLE,100000,60,30000 to 45000,256 GB,45-65,8 GB,12-16,no,Personal use and Photography,6.5 inches or more
+9/15/2022 16:02:00,,26,Male,Flipkart,Price,Android,Metallic type,"SAMSUNG, ONEPLUS",20000,42,above 75000,256 GB,25-45,12 GB,12-16,no,"Personal use, official use, Personal use and Photography, Other",6.5 inches or more
+9/15/2022 16:04:59,,34,Male,Flipkart,Price,Android,Plastic type,XIAOMI,10000,3,15000 to 30000,64 GB,65 and above,16 GB,Above 20,yes,"Personal use, Personal use and Photography",6.5 inches or more
+9/15/2022 16:05:44,,23,Female,Physical store,Processor,iOS,Metallic type,APPLE,50000,24,15000 to 30000,128 GB,45-65,8 GB,16-20,yes,Personal use,5.5 inches
+9/15/2022 16:05:57,,22,Male,Amazon,Camera,Android,Metallic type,ONEPLUS,50000,26,15000 to 30000,256 GB,65 and above,12 GB,Above 20,yes,"Personal use, official use, vlogging, Photography/ videography, Personal use and Photography",6 inches
+9/15/2022 16:09:57,,27,Male,Amazon,Processor,iOS,Metallic type,"APPLE, ONEPLUS",50000,48,60000 to 75000,128 GB,45-65,8 GB,12-16,no,"Personal use, official use, Photography/ videography, Personal use and Photography",6 inches
+9/15/2022 16:11:32,,23,Female,Physical store,Processor,Android,Metallic type,SAMSUNG,30000,24,15000 to 30000,256 GB,45-65,8 GB,Above 20,yes,Personal use,6 inches
+9/15/2022 16:12:33,,20,Male,Physical store,Processor,iOS,Metallic type,APPLE,135000,18,above 75000,256 GB,25-45,8 GB,12-16,yes,"Personal use, Other",6 inches
+9/15/2022 16:13:58,,30,Male,Physical store,Processor,Android,Metallic type,OTHERS,20000,36,15000 to 30000,128 GB,65 and above,8 GB,16-20,yes,"Personal use, official use",5.5 inches
+9/15/2022 16:16:13,,22,Female,Physical store,Storage Space,iOS,Metallic type,APPLE,40000,36,45000 to 60000,128 GB,45-65,6 GB,16-20,yes,Personal use,5.5 inches
+9/15/2022 16:17:36,,20,Female,Physical store,Storage Space,Android,Metallic type,"SAMSUNG, APPLE",40000,36,45000 to 60000,128 GB,45-65,8 GB,12-16,no,Personal use and Photography,5.5 inches
+9/15/2022 16:22:00,,20,Male,Amazon,Processor,iOS,Metallic type,APPLE,139900,12,15000 to 30000,256 GB,45-65,12 GB,Above 20,yes,"Personal use, official use, vlogging, Photography/ videography, Personal use and Photography, Other",6.5 inches or more
+9/15/2022 16:25:06,,27,Male,Flipkart,Processor,Android,Metallic type,ONEPLUS,25000,2,15000 to 30000,128 GB,65 and above,8 GB,Above 20,no,"Personal use, official use, Photography/ videography, Personal use and Photography",6.5 inches or more
+9/15/2022 16:25:32,,26,Male,Flipkart,Processor,iOS,Metallic type,APPLE,50000,15,45000 to 60000,64 GB,25-45,8 GB,Above 20,no,Personal use,5.5 inches
+9/15/2022 16:28:45,,33,Female,Amazon,Camera,Android,Metallic type,"SAMSUNG, XIAOMI",23000,18,30000 to 45000,128 GB,5- 25,12 GB,8-12,yes,"Personal use, vlogging, Photography/ videography",6 inches
+9/15/2022 16:29:21,,30,Male,Physical store,Camera,Android,Metallic type,OTHERS,30000,12,15000 to 30000,256 GB,45-65,16 GB,Above 20,yes,"Personal use, official use, vlogging, Photography/ videography, Personal use and Photography",6 inches
+9/15/2022 16:34:37,,24,Male,Amazon,Processor,Android,Metallic type,XIAOMI,10000,12,15000 to 30000,128 GB,5- 25,4 GB,12-16,no,Personal use,6.5 inches or more
+9/15/2022 16:35:17,,21,Male,Physical store,Processor,iOS,Metallic type,"SAMSUNG, APPLE",50000,2,45000 to 60000,128 GB,65 and above,16 GB,Above 20,no,"Personal use, official use",5.5 inches
+9/15/2022 16:35:29,,22,Female,Physical store,Storage Space,Android,Metallic type,ONEPLUS,30000,60,15000 to 30000,128 GB,45-65,8 GB,16-20,no,Personal use,5.5 inches
+9/15/2022 16:41:52,,26,Female,Amazon,RAM,Android,Metallic type,ONEPLUS,25000,24,15000 to 30000,256 GB,65 and above,8 GB,8-12,no,Personal use,6 inches
+9/15/2022 16:44:12,,29,Female,Physical store,Camera,Android,Metallic type,"SAMSUNG, ONEPLUS",30000,24,15000 to 30000,256 GB,65 and above,12 GB,Above 20,yes,Personal use and Photography,6.5 inches or more
+9/15/2022 16:45:42,,27,Male,Flipkart,Processor,Android,Metallic type,"SAMSUNG, APPLE",30000,36,45000 to 60000,128 GB,45-65,12 GB,12-16,yes,"Personal use, official use, Photography/ videography",6 inches
+9/15/2022 16:45:52,,32,Female,Physical store,Storage Space,iOS,Metallic type,APPLE,60000,12,15000 to 30000,256 GB,65 and above,8 GB,Above 20,yes,Personal use,5 inches
+9/15/2022 16:50:03,,34,Male,Flipkart,Camera,Android,Plastic type,OTHERS,40000,24,45000 to 60000,256 GB,5- 25,12 GB,12-16,no,Personal use,6 inches
+9/15/2022 16:53:04,,22,Female,Physical store,Processor,iOS,Both ,APPLE,80000,3,30000 to 45000,256 GB,25-45,16 GB,Above 20,no,"Personal use, official use, vlogging, Photography/ videography, Personal use and Photography, Other",6.5 inches or more
+9/15/2022 16:59:53,,26,Female,Physical store,Camera,Android,,"SAMSUNG, APPLE, ONEPLUS",30000,36,15000 to 30000,128 GB,,6 GB,12-16,no,"official use, Personal use and Photography",6.5 inches or more
+9/15/2022 17:00:43,,27,Male,Amazon,Processor,Android,Metallic type,ONEPLUS,50000,24,15000 to 30000,256 GB,65 and above,16 GB,Above 20,no,Personal use and Photography,6 inches
+9/15/2022 17:11:56,,21,Male,Flipkart,Price,Android,Metallic type,ONEPLUS,30000,36,15000 to 30000,128 GB,45-65,8 GB,12-16,no,Personal use,5.5 inches
+9/15/2022 17:13:45,,28,Female,Physical store,Processor,Android,Metallic type,OTHERS,25000,24,15000 to 30000,256 GB,45-65,12 GB,Above 20,yes,Personal use and Photography,6 inches
+9/15/2022 17:13:48,,21,Male,Flipkart,Price,Android,Metallic type,"SAMSUNG, XIAOMI",20000,24,above 75000,128 GB,65 and above,12 GB,12-16,no,"Personal use, official use, Photography/ videography, Personal use and Photography",5.5 inches
+9/15/2022 17:20:30,,25,Male,Others,Processor,iOS,Metallic type,APPLE,100000,2,above 75000,128 GB,45-65,16 GB,12-16,yes,Other,6 inches
+9/15/2022 17:26:47,,28,Male,Physical store,RAM,Android,Metallic type,SAMSUNG,90000,44,45000 to 60000,256 GB,65 and above,16 GB,Above 20,no,"Personal use, official use, Photography/ videography",6.5 inches or more
+9/15/2022 17:27:55,,28,Male,Flipkart,Price,Android,Metallic type,ONEPLUS,15000,30,45000 to 60000,128 GB,5- 25,4 GB,16-20,yes,Personal use,5.5 inches
+9/15/2022 17:27:58,,25,Female,Amazon,Processor,Android,Metallic type,ONEPLUS,30000,48,above 75000,256 GB,65 and above,16 GB,Above 20,yes,Personal use and Photography,5.5 inches
+9/15/2022 17:32:53,,21,Female,Physical store,Camera,Android,,SAMSUNG,30000,1,15000 to 30000,128 GB,25-45,8 GB,8-12,yes,Personal use,5 inches
+9/15/2022 17:34:59,,24,Female,Physical store,Processor,Android,Metallic type,ONEPLUS,35000,36,30000 to 45000,128 GB,45-65,12 GB,12-16,yes,"Personal use, official use",6 inches
+9/15/2022 17:46:49,,29,Male,Flipkart,Processor,Android,Plastic type,XIAOMI,35000,36,30000 to 45000,128 GB,25-45,8 GB,12-16,yes,Personal use,6 inches
+9/15/2022 17:47:25,,23,Male,Physical store,Processor,Android,Metallic type,SAMSUNG,30000,6,30000 to 45000,128 GB,45-65,8 GB,12-16,no,Personal use,6 inches
+9/15/2022 17:50:13,,50,Female,Physical store,Looks,Android,Metallic type,OTHERS,20000,24,15000 to 30000,128 GB,45-65,12 GB,Above 20,yes,Personal use,6 inches
+9/15/2022 17:50:43,,24,Female,Physical store,Storage Space,iOS,Metallic type,APPLE,150000,20,45000 to 60000,256 GB,65 and above,12 GB,Above 20,yes,Personal use and Photography,6 inches
+9/15/2022 17:54:20,,29,Female,Physical store,Camera,iOS,Metallic type,APPLE,70000,36,above 75000,128 GB,45-65,8 GB,Above 20,yes,"Personal use, Photography/ videography, Personal use and Photography",6 inches
+9/15/2022 18:04:38,,28,Male,Flipkart,Camera,iOS,Metallic type,APPLE,80000,24,30000 to 45000,128 GB,25-45,16 GB,16-20,yes,Personal use and Photography,6.5 inches or more
+9/15/2022 18:10:13,,26,Male,Physical store,Looks,Android,Metallic type,"SAMSUNG, ONEPLUS",40000,20,60000 to 75000,256 GB,45-65,16 GB,Above 20,no,Personal use,6 inches
+9/15/2022 18:15:47,,29,Male,Flipkart,Processor,Android,Metallic type,"APPLE, ONEPLUS",25000,60,above 75000,256 GB,45-65,6 GB,4-8,no,"Personal use, official use, Photography/ videography, Personal use and Photography",6.5 inches or more
+9/15/2022 18:16:49,,25,Female,Physical store,Processor,Android,Metallic type,"ONEPLUS, OTHERS",30000,24,15000 to 30000,256 GB,65 and above,16 GB,Above 20,yes,"Personal use, official use, Photography/ videography, Personal use and Photography, Other",6.5 inches or more
+9/15/2022 18:17:19,,21,Female,Physical store,Price,Android,Metallic type,ONEPLUS,20000,1,15000 to 30000,128 GB,25-45,8 GB,12-16,yes,Personal use and Photography,5.5 inches
+9/15/2022 18:27:28,,24,Male,Amazon,Processor,Android,Metallic type,ONEPLUS,30000,36,45000 to 60000,128 GB,25-45,8 GB,12-16,no,Personal use,5.5 inches
+9/15/2022 18:39:33,,25,Male,Amazon,RAM,Android,Metallic type,"SAMSUNG, APPLE, ONEPLUS, OTHERS",10000,60,15000 to 30000,256 GB,65 and above,16 GB,Above 20,yes,Personal use,6 inches
+9/15/2022 19:02:33,,44,Male,Physical store,Processor,Android,Metallic type,OTHERS,40000,24,above 75000,256 GB,65 and above,16 GB,12-16,yes,Personal use and Photography,6 inches
+9/15/2022 19:03:49,,26,Male,Amazon,Camera,iOS,Metallic type,APPLE,60000,36,15000 to 30000,256 GB,25-45,12 GB,16-20,yes,Personal use and Photography,6 inches
+9/15/2022 19:16:10,,24,Male,Amazon,Price,iOS,Metallic type,APPLE,50000,36,15000 to 30000,128 GB,25-45,8 GB,8-12,yes,Personal use,6 inches
+9/15/2022 19:23:18,,28,Male,Physical store,Looks,iOS,Metallic type,APPLE,100000,24,above 75000,256 GB,5- 25,8 GB,16-20,no,Personal use,6 inches
+9/15/2022 19:27:24,,45,Male,Physical store,Storage Space,Android,Metallic type,SAMSUNG,15000,36,15000 to 30000,128 GB,25-45,12 GB,12-16,no,Personal use,5.5 inches
+9/15/2022 19:40:48,,23,Male,Physical store,Processor,iOS,Metallic type,APPLE,70000,18,above 75000,128 GB,45-65,12 GB,12-16,yes,"Personal use, official use, Photography/ videography, Personal use and Photography",6 inches
+9/15/2022 19:42:31,dhaliwal2468@gmail.com,21,Female,Physical store,Storage Space,iOS,Metallic type,APPLE,90000,24,30000 to 45000,256 GB,25-45,8 GB,Above 20,yes,Personal use,6 inches
+9/15/2022 20:23:56,paruljaiswal38@gmail.com,45,Female,Physical store,Price,Android,Metallic type,OTHERS,15000,48,15000 to 30000,128 GB,45-65,16 GB,Above 20,yes,official use,6 inches
+9/15/2022 21:51:09,kaushikagrawal1125@gmail.com,22,Male,Amazon,Processor,Android,Metallic type,OTHERS,30000,2,45000 to 60000,128 GB,25-45,6 GB,8-12,no,Personal use,5.5 inches
+9/15/2022 23:07:23,kanakkbera93@gmail.com,29,Male,Amazon,Price,Android,Metallic type,SAMSUNG,20000,24,above 75000,64 GB,45-65,6 GB,12-16,no,Personal use and Photography,5.5 inches
+9/15/2022 23:36:49,akkikren@gmail.com,29,Male,Physical store,Processor,iOS,Metallic type,"SAMSUNG, APPLE",55000,36,45000 to 60000,128 GB,25-45,8 GB,Above 20,no,"Personal use, Photography/ videography, Personal use and Photography",5.5 inches
+9/15/2022 23:39:40,somadasmukherjee6@gmail.com,47,Female,Physical store,Processor,Android,Metallic type,SAMSUNG,40000,60,15000 to 30000,256 GB,65 and above,16 GB,Above 20,yes,Personal use and Photography,6 inches
+9/15/2022 23:53:11,anjanadas155@gmail.com,44,Female,Physical store,Storage Space,Android,Metallic type,XIAOMI,15000,36,15000 to 30000,64 GB,5- 25,6 GB,16-20,no,"Personal use, official use, Photography/ videography",6 inches
+9/16/2022 4:03:14,rishabh.c3108@gmail.com,30,Male,Amazon,Price,iOS,Metallic type,ONEPLUS,40000,36,60000 to 75000,128 GB,45-65,8 GB,16-20,no,"official use, Personal use and Photography",5.5 inches
+9/16/2022 7:45:01,neha8991singh@gmail.com,24,Female,Flipkart,Price,iOS,Metallic type,APPLE,50000,48,45000 to 60000,128 GB,45-65,6 GB,16-20,yes,Personal use,5.5 inches
+9/16/2022 8:20:05,debleenaa007@gmail.com,26,Female,Amazon,Price,Android,Plastic type,XIAOMI,11000,3,15000 to 30000,64 GB,65 and above,16 GB,Above 20,yes,"Personal use, Personal use and Photography",6.5 inches or more
+9/16/2022 13:33:46,mannasaswata715@gmail.com,17,Male,Physical store,RAM,Android,Metallic type,SAMSUNG,30000,36,60000 to 75000,64 GB,25-45,12 GB,8-12,no,Personal use,5.5 inches
+9/16/2022 13:57:01,subrata.dey2884@gmail.com,39,Male,Flipkart,Price,Android,Metallic type,SAMSUNG,15000,2,above 75000,128 GB,5- 25,6 GB,Above 20,no,"Personal use, official use, Photography/ videography, Personal use and Photography",5.5 inches
+9/16/2022 15:27:59,somnath0273@gmail.com,49,Male,Amazon,Processor,Android,Metallic type,ONEPLUS,20000,36,15000 to 30000,128 GB,5- 25,12 GB,12-16,no,"Personal use, official use",6.5 inches or more
+9/16/2022 20:26:38,pranavagarwal72500@gmail.com,23,Male,Physical store,Processor,Android,Metallic type,ONEPLUS,30000,18,15000 to 30000,128 GB,25-45,8 GB,Above 20,no,Personal use,5.5 inches
+9/16/2022 21:39:55,kasturi.upadhye@gmail.com,36,Female,Physical store,Price,Android,Metallic type,SAMSUNG,50000,36,above 75000,OTHERS,45-65,16 GB,Above 20,yes,"Personal use, official use",6.5 inches or more
+9/17/2022 12:36:23,ninadbam18@gmail.com,27,Male,Flipkart,Camera,iOS,Metallic type,"SAMSUNG, APPLE, ONEPLUS",50000,48,above 75000,256 GB,45-65,6 GB,Above 20,no,Personal use and Photography,5.5 inches
+9/17/2022 13:25:37,tapishdamley1996@gmail.com,26,Male,Amazon,RAM,Android,,OTHERS,07030853283,12,30000 to 45000,256 GB,65 and above,16 GB,Above 20,yes,"Personal use, official use, Photography/ videography",6.5 inches or more
+9/18/2022 8:43:51,adriza4444@gmail.com,17,Female,Physical store,Price,Android,Metallic type,OTHERS,10000,36,15000 to 30000,64 GB,25-45,4 GB,4-8,no,Personal use,5.5 inches
+9/22/2022 19:46:21,ipsheetha03@gmail.com,20,Female,Flipkart,RAM,Android,Metallic type,"SAMSUNG, APPLE, XIAOMI",15000,48,15000 to 30000,128 GB,25-45,6 GB,12-16,no,"Personal use, official use",5.5 inches
+9/23/2022 20:28:58,subho.halder@praxis.ac.in,27,Male,Flipkart,Camera,iOS,Metallic type,"APPLE, ONEPLUS",50000,36,30000 to 45000,128 GB,5- 25,8 GB,16-20,no,"Personal use, official use, Personal use and Photography",6.5 inches or more
+9/23/2022 20:49:54,sayandeep7srm@gmail.com,32,Male,Amazon,Price,Android,Metallic type,SAMSUNG,20000,36,15000 to 30000,256 GB,65 and above,16 GB,Above 20,no,Personal use,6.5 inches or more
